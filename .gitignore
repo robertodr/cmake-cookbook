@@ -29,6 +29,7 @@
 
 # Build directories
 *build*/
+.direnv
 
 # Python stuff
 *.pyc
